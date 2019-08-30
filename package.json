@@ -7,12 +7,24 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"author": "anzerr",
+	"license": "MIT",
 	"dependencies": {
 		"eslint": "^5.11.1",
 		"@typescript-eslint/eslint-plugin": "^2.0.0",
 		"@typescript-eslint/parser": "^2.0.0",
 		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:anzerr/eslint-config-typescript.git"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"types": "index.d.ts",
+	"bugs": {
+		"url": "https://github.com/anzerr/eslint-config-typescript/issues"
+	},
+	"homepage": "https://github.com/anzerr/eslint-config-typescript#readme"
 }

@@ -1,5 +1,7 @@
 
 ### `Intro`
+![GitHub Actions status | publish](https://github.com/anzerr/eslint-config-typescript/workflows/publish/badge.svg)
+
 eslint config to run on typescript
 
 #### `Install`
